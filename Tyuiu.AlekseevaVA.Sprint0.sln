@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AlekseevaVA.Sprint0.Task0.V0", "Tyuiu.AlekseevaVA.Sprint0.Task0.V0\Tyuiu.AlekseevaVA.Sprint0.Task0.V0.csproj", "{B07F73B9-1136-46A3-AC31-B106D6F66C86}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{5591714C-195D-40A3-907F-8DBA72F0FE0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AlekseevaVA.Sprint0.Task1.V0", "Tyuiu.AlekseevaVA.Sprint0.Task1.V0\Tyuiu.AlekseevaVA.Sprint0.Task1.V0.csproj", "{FD53AEAC-9542-4798-AD83-8F7029C39F63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{B07F73B9-1136-46A3-AC31-B106D6F66C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B07F73B9-1136-46A3-AC31-B106D6F66C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B07F73B9-1136-46A3-AC31-B106D6F66C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD53AEAC-9542-4798-AD83-8F7029C39F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD53AEAC-9542-4798-AD83-8F7029C39F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD53AEAC-9542-4798-AD83-8F7029C39F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD53AEAC-9542-4798-AD83-8F7029C39F63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B07F73B9-1136-46A3-AC31-B106D6F66C86} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{FD53AEAC-9542-4798-AD83-8F7029C39F63} = {5591714C-195D-40A3-907F-8DBA72F0FE0E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6569A214-414B-4F3F-B02C-19B5193270BA}
