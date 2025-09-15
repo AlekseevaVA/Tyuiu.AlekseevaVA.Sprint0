@@ -6,7 +6,7 @@ namespace Tyuiu.AlekseevaVA.Sprint0.Task3.V0.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void CheckedValid()
         {
             Assert.AreEqual(10, DataService.Sum(5, 5));
         }
